@@ -1,0 +1,13 @@
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\Assignment01.exe
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\Assignment01.pdb
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.AssemblyReference.cache
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.CoreCompileInputs.cache
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\obj\Debug\Assignment01.pdb
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\nunit.framework.dll
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\nunit.framework.legacy.dll
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\nunit.framework.xml
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\bin\Debug\nunit.framework.legacy.xml
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.CopyComplete

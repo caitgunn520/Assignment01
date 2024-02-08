@@ -1,0 +1,2 @@
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01.Tests\obj\Debug\Assignment01.Tests.csproj.AssemblyReference.cache
+C:\Projects\QualityAssuranceClass\Assignment01\Assignment01.Tests\obj\Debug\Assignment01.Tests.csproj.CoreCompileInputs.cache
